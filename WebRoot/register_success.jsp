@@ -39,10 +39,10 @@
 								<div class="container-fluid">
 									<a data-target=".navbar-responsive-collapse" data-toggle="collapse" class="btn btn-navbar"><span class="icon-bar"></span>
 									<span class="icon-bar"></span><span class="icon-bar"></span> </a> 
-									<a href="homepage.jsp" class="brand">亚洲旱地冰球协会</a>
+									<a href="index.jsp" class="brand">亞洲旱地冰球協會</a>
 									
 										<ul class="nav">
-											<li class="active"><a href="homepage.jsp">主页</a></li>
+											<li class="active"><a href="index.jsp">主页</a></li>
 											<li class="dropdown"><a data-toggle="dropdown" class="dropdown-toggle" href="#">关于AFD<strong class="caret"></strong></a>
 												<ul class="dropdown-menu">												
 													<li><a href="#">协会简介</a></li>													

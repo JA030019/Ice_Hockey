@@ -12,7 +12,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-<title>欢迎访问亚洲旱地冰球协会</title>
+<title>欢迎访问亞洲旱地冰球協會</title>
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;" name="viewport" />
 <script type="text/javascript" src="bootstrap/jquery-2.0.0.min.js"></script>
 <script type="text/javascript" src="bootstrap/jquery-ui"></script>
@@ -39,14 +39,14 @@
 								<div class="container-fluid">
 									<a data-target=".navbar-responsive-collapse" data-toggle="collapse" class="btn btn-navbar"><span class="icon-bar"></span>
 									<span class="icon-bar"></span><span class="icon-bar"></span> </a> 
-									<a href="homepage.jsp" class="brand">亚洲旱地冰球协会</a>
+									<a href="homepage.jsp" class="brand">亞洲旱地冰球協會</a>
 									
 									
 										<ul class="nav">
 											<li class="active"><a href="homepage.jsp">主页</a></li>
 											<li class="dropdown"><a data-toggle="dropdown" class="dropdown-toggle" href="#">关于AFD<strong class="caret"></strong></a>
 												<ul class="dropdown-menu">												
-													<li><a href="#">协会简介</a></li>													
+													<li><a href="/Ice_Hockey/club_introduction.jsp">协会简介</a></li>													
 													<li><a href="#">人才招聘</a></li>
 													<li><a href="#">闪电学院</a></li>
 													<li><a href="#">国内外新闻</a></li>
@@ -57,7 +57,7 @@
 											
 											<li class="dropdown"><a data-toggle="dropdown" class="dropdown-toggle" href="#">旱地冰球<strong class="caret"></strong></a>
 												<ul class="dropdown-menu">												
-													<li><a href="#">项目简介</a></li>
+													<li><a href="">项目简介</a></li>
 													<li><a href="#">国内外发展</a></li>
 													<li><a href="#">裁判规则</a></li>											
 												</ul>
@@ -112,10 +112,10 @@
 														<form class="form-horizontal" method="post" name="login" action="/Ice_Hockey/LoginServlet">
 														
 														  
-															<div class="control-group" >
+															<div class="control-group">
 																<label class="control-label">用户名</label>
 																<div class="controls">
-																	<input id="input" type="text" name="username" />
+																	<input id="username" type="text" name="username" /> &nbsp <small>（长度为3~25个字符，不能以“_”开头或结尾）</small>
 																</div>
 															</div>
 															

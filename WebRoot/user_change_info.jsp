@@ -33,10 +33,10 @@
 									<a data-target=".navbar-responsive-collapse"
 										data-toggle="collapse" class="btn btn-navbar"><span
 										class="icon-bar"></span><span class="icon-bar"></span><span
-										class="icon-bar"></span> </a> <a href="homepage.jsp" class="brand">亚洲旱地冰球俱乐部</a>
+										class="icon-bar"></span> </a> <a href="index.jsp" class="brand">亞洲旱地冰球協會</a>
 									<div class="nav-collapse collapse navbar-responsive-collapse">
 										<ul class="nav">
-											<li class="active"><a href="homepage.jsp">主页</a></li>
+											<li class="active"><a href="index.jsp">主页</a></li>
 											      
 										</ul>
 										<ul class="nav pull-right">
