@@ -11,4 +11,5 @@ JavaBean as a business layer Bean, using Servlet to call different functions.
 Bootstrap front-end framework, involving HTML, CSS, JavaScript for about 40 JSP pages.
 
 Deploy the project by using Tencent Cloud Server, the address: http://111.230.229.240
+the adress may not work now.
 
